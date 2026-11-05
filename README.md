@@ -1,16 +1,16 @@
-## Hi there 👋
+### 黄诗熙 · Shixi Huang
 
-<!--
-**Kdloong/Kdloong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+中山大学 电子与通信工程学院 · 电子信息 · 2027 届
 
-Here are some ideas to get you started:
+**方向：端侧 AI 部署 / 大模型推理优化**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**重点项目**
+
+- [executorch-android-deploy](https://github.com/Kdloong/executorch-android-deploy) — 将 LLaVA-1.5-7B 经 8da4w 量化压缩至 3.87GB，在 Windows 上自建 NDK 交叉编译工具链，部署至 Android 真机实现完全离线图像问答
+- [python-learning](https://github.com/Kdloong/python-learning) — PyTorch / Transformer / 深度学习基础实践代码
+
+---
+
+📮 13226762031@163.com
